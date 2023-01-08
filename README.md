@@ -13,9 +13,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Приклад як НЕ треба: Поле - Name, значння - Студент Іванов Василь Петрович)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. в кожній таблиці повинен бути Primary Key\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. обов'язково додати Foreign Key, коли зв'язуємо таблиці\
-● Всі назви повинні бути англійською мовою
-● Мінімум 5 таблиць
-● Обов'язково реалізувати зв'язок багато хто до багатьох\
+● Всі назви повинні бути англійською мовою\
+● Мінімум 5 таблиць\
+● Обов'язково реалізувати зв'язок багато хто до багатьох
 
 <br>
 <br>
